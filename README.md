@@ -2,7 +2,7 @@
 # 🚀 30 Days Complete C++ Challenge
 > Learn Programming, OOP, STL, Problem Solving & Build Projects
 >
-> 
+
 > ```
           
   # 📌 About This Repository
@@ -11,16 +11,16 @@
       
  I am learning:
       
-      * C++ Basics
-      * Problem Solving
-      * Functions
-      * Arrays & Strings
-      * Pointers
-      * Object-Oriented Programming
-      * STL (Standard Template Library)
-      * File Handling
-      * Exception Handling
-      * Projects & Practice
+ * C++ Basics
+ * Problem Solving
+ * Functions
+ * Arrays & Strings
+ * Pointers
+ * Object-Oriented Programming
+ * STL (Standard Template Library)
+ * File Handling
+ * Exception Handling
+ * Projects & Practice
 
 ---
 
@@ -45,7 +45,7 @@ By completing this challenge, I will be able to:
 * [GeeksforGeeks](https://www.geeksforgeeks.org?utm_source=chatgpt.com)
 
 ---
-
+```
                               # 🗓️ 30 Days Learning Plan
                               
                               | Day    | Topics                                  |
