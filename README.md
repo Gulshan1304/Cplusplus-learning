@@ -1,14 +1,9 @@
 # Cplusplus-learning
 # 🚀 30 Days Complete C++ Challenge
-
-> Complete Beginner to Advanced C++ Roadmap
 > Learn Programming, OOP, STL, Problem Solving & Build Projects
-
-![C++](https://img.shields.io/badge/Language-C%2B%2B-blue)
-![Days](https://img.shields.io/badge/Challenge-30%20Days-success)
-![Level](https://img.shields.io/badge/Level-Beginner%20to%20Advanced-orange)
-
-      ---
+>
+> 
+> ```
           
   # 📌 About This Repository
       
@@ -41,25 +36,6 @@ By completing this challenge, I will be able to:
 ✅ Prepare for Competitive Programming
 
 ---
-
-# 🛠️ Tools & Setup
-
-## IDE & Compiler
-
-* [Visual Studio Code](https://code.visualstudio.com?utm_source=chatgpt.com)
-* [MinGW Compiler](https://www.mingw-w64.org?utm_source=chatgpt.com)
-* [OnlineGDB Compiler](https://www.onlinegdb.com?utm_source=chatgpt.com)
-
----
-
-# 📚 Best Resources
-
-## YouTube Playlists
-
-* [CodeWithHarry C++ Playlist](https://www.youtube.com/playlist?list=PLu0W_9lII9agS67Uits0UnJyrYiXhDS6q&utm_source=chatgpt.com)
-* [Apna College C++ Course](https://www.youtube.com/watch?v=ZzaPdXTrSb8&utm_source=chatgpt.com)
-* [Neso Academy](https://www.youtube.com/@nesoacademy?utm_source=chatgpt.com)
-* [freeCodeCamp C++ Course](https://www.youtube.com/watch?v=vLnPwxZdW4Y&utm_source=chatgpt.com)
 
 ## Practice Platforms
 
@@ -107,46 +83,9 @@ By completing this challenge, I will be able to:
 
 ---
 
-# 📂 Repository Structure
 
-```bash id="u2w8sa"
-30-Days-Cpp-Challenge/
-│
-├── Day-01/
-│   ├── hello.cpp
-│   └── notes.md
-│
-├── Day-02/
-├── Day-03/
-├── Day-04/
-├── Day-05/
-├── Day-06/
-├── Day-07/
-├── Day-08/
-├── Day-09/
-├── Day-10/
-├── Day-11/
-├── Day-12/
-├── Day-13/
-├── Day-14/
-├── Day-15/
-├── Day-16/
-├── Day-17/
-├── Day-18/
-├── Day-19/
-├── Day-20/
-├── Day-21/
-├── Day-22/
-├── Day-23/
-├── Day-24/
-├── Day-25/
-├── Day-26/
-├── Day-27/
-├── Day-28/
-├── Day-29/
-├── Day-30/
-│
-└── README.md
+
+
 ```
 
 ---
@@ -642,17 +581,3 @@ After completing this challenge, you will:
 ✅ Build real projects
 
 ---
-
-# ⭐ Support
-
-If you like this repository:
-
-⭐ Star the repository
-🍴 Fork it
-📢 Share with friends
-
----
-
-# 👨‍💻 Author
-
-Made with ❤️ by a Future AI Engineer 🚀
