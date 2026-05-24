@@ -31,7 +31,6 @@ Year	Development
 C++ was developed as an extension of the C language.
 
 Q.5 Features of C++
-
 1. Fast Performance
 
 C++ programs execute very fast.
