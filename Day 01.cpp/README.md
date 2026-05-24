@@ -1,6 +1,6 @@
 Day 01 — Introduction to C++
 
-Welcome to Day 1 of the 30 Days C++ Challenge
+Day 1 of the 30 Days C++ Challenge
 
 Q.1 What is Programming?
 Programming means giving instructions to a computer to perform tasks.
