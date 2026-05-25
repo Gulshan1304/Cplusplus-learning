@@ -9,7 +9,6 @@ C, C++, Python, Java, JavaScript
 These instructions are called Programs.
 
 Q.2 What is C++?
-
 C++ is a powerful programming language developed by Bjarne Stroustrup.
 
 It is:
