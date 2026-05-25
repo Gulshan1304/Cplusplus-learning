@@ -1,4 +1,4 @@
-Day 01 — Introduction to C++
+Day 01 — Introduction to C++ 
 
 Day 1 of the 30 Days C++ Challenge
 
