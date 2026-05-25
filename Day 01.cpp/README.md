@@ -4,7 +4,6 @@ Day 1 of the 30 Days C++ Challenge
 
 Q.1 What is Programming?
 Programming means giving instructions to a computer to perform tasks.
-
 A computer cannot understand human language directly, so programmers write instructions using programming languages like:
 C, C++, Python, Java, JavaScript
 These instructions are called Programs.
