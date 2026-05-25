@@ -38,6 +38,7 @@ Classes
 Objects
 Inheritance
 Polymorphism
+
 3. Portable
 
 Runs on multiple operating systems.
@@ -52,26 +53,27 @@ Databases
 AI systems
 
 🔍 Explanation of Program
-#include <iostream>
+
+    #include <iostream>
 
 Used for input and output operations.
 
-using namespace std
+    using namespace std
 
 Allows us to use standard library features without writing std::.
 
-int main()
+    int main()
 
 Main function where execution starts.
 
-cout
+    cout
 
 Used to print output.
 
 Example:
 
-cout << "Hello";
+  cout << "Hello";
 
-return 0
+    return 0
 
 Indicates successful execution.
