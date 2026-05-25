@@ -7,17 +7,17 @@
 This repository contains my **30 Days C++ Learning Journey**.
       
  I am learning:
-      
- * C++ Basics
- * Problem Solving
- * Functions
- * Arrays & Strings
- * Pointers
- * Object-Oriented Programming
- * STL (Standard Template Library)
- * File Handling
- * Exception Handling
- * Projects & Practice
+            
+       * C++ Basics
+       * Problem Solving
+       * Functions
+       * Arrays & Strings
+       * Pointers
+       * Object-Oriented Programming
+       * STL (Standard Template Library)
+       * File Handling
+       * Exception Handling
+       * Projects & Practice
 
 ---
 
@@ -25,12 +25,12 @@ This repository contains my **30 Days C++ Learning Journey**.
 
 By completing this challenge, I will be able to:
 
-✅ Write C++ programs confidently
-✅ Build strong programming logic
-✅ Understand OOP concepts
-✅ Solve coding problems
-✅ Start Data Structures & Algorithms
-✅ Prepare for Competitive Programming
+      ✅ Write C++ programs confidently
+      ✅ Build strong programming logic
+      ✅ Understand OOP concepts
+      ✅ Solve coding problems
+      ✅ Start Data Structures & Algorithms
+      ✅ Prepare for Competitive Programming
 
 ---
 
@@ -48,8 +48,8 @@ By completing this challenge, I will be able to:
 | Day    | Topics                                  |
 | ------ | --------------------------------------- |
 | Day 1  | C++ Intro, Setup, Syntax, First Program |
-| Day 2  | Output, Input, Comments                 |
-| Day 3  | Variables, Data Types, Constants        |
+| Day 2  | Variables, Data Types, Constants        |
+| Day 3  | Input, output and Comments              |
 | Day 4  | Operators & Expressions                 |
 | Day 5  | User Input & Boolean                    |
 | Day 6  | If-Else & Switch                        |
