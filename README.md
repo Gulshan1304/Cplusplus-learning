@@ -1,8 +1,8 @@
 # Cplusplus-learning
-# 🚀 30 Days Complete C++ Challenge
+#  30 Days Complete C++ Challenge
 > Learn Programming, OOP, STL, Problem Solving & Build Projects
 >  
-# 📌 About This Repository
+#  About This Repository
       
 This repository contains my **30 Days C++ Learning Journey**.
       
@@ -21,7 +21,7 @@ This repository contains my **30 Days C++ Learning Journey**.
 
 ---
 
-# 🎯 Goals
+#  Goals
 
 By completing this challenge, I will be able to:
 
