@@ -25,7 +25,6 @@ Year	Development
 1972	C language developed
 1979	C++ started by Bjarne Stroustrup
 1985	Official release of C++
-
 C++ was developed as an extension of the C language.
 
 Q.5 Features of C++
