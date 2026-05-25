@@ -77,5 +77,4 @@ By completing this challenge, I will be able to:
 | Day 28 | Advanced Projects                       |
 | Day 29 | Coding Challenges                       |
 | Day 30 | Revision & GitHub Upload                |
-                              
-                              ---
+ ---
