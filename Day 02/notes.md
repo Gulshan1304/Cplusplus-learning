@@ -23,12 +23,12 @@ A data type is used to define the type of data that a variable can store in a pr
 
 # Types of Data Types
 
-1. Integer Data Type (`int`)
-2. Float Data Type (`float`)
-3. Double Data Type (`double`)
-4. Character Data Type (`char`)
-5. String Data Type (`string`)
-6. Boolean Data Type (`bool`)
+    1. Integer Data Type (`int`)
+    2. Float Data Type (`float`)
+    3. Double Data Type (`double`)
+    4. Character Data Type (`char`)
+    5. String Data Type (`string`)
+    6. Boolean Data Type (`bool`)
 
 ---
 
