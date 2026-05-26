@@ -75,9 +75,9 @@ A boolean data type is used to store true or false values.
  Type casting is the process of converting one data type into another data type.
 
  ## Example 
- int → float
-float → int
-char → int
+     int → float
+    float → int
+    char → int
 
 # Types of Type Casting
 
@@ -94,7 +94,7 @@ Manual conversion done by programmer.
 
 # Type Casting Table
 
-Conversion	Example
-int → float	(float)a
-float → int	(int)b
-char → int	(int)c
+# Conversion	Example
+    int → float	(float)a
+    float → int	(int)b
+    char → int	(int)c
