@@ -152,7 +152,8 @@ False(0)
 
 ### Types of Logical Operators
 1. '&&' - Logical AND : The logical AND operator returns true only when both conditions are true.
-2. '!' - Logical NOT : The logical OR operator returns true if at least one condition is true.
+2. '!' - Logical NOT :The logical NOT operator reverses the result of a condition.
+3. '||' - Logical OR : The logical OR operator returns true if at least one condition is true.
 
 ## 4.  Assignment Operators
 
