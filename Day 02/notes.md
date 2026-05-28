@@ -158,4 +158,16 @@ False(0)
 
 Assignment operators are used to assign values to variables.
 
+### Types of Assignment Operators
+
+    | Operator | Meaning             | Example  |
+    | -------- | ------------------- | -------- |
+    | `=`      | Assign              | `a = 10` |
+    | `+=`     | Add and assign      | `a += 5` |
+    | `-=`     | Subtract and assign | `a -= 5` |
+    | `*=`     | Multiply and assign | `a *= 5` |
+    | `/=`     | Divide and assign   | `a /= 5` |
+    | `%=`     | Modulus and assign  | `a %= 5` |
+
+
 
