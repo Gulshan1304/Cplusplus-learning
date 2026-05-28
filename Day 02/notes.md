@@ -95,10 +95,10 @@ Manual conversion done by programmer.
 # Type Casting Table
 
 
-Conversion	Example
-int → float	(float)a
-float → int	(int)b
-char → int	(int)c
+    Conversion	Example
+    int → float	(float)a
+    float → int	(int)b
+    char → int	(int)c
 
 
 # Operators 
@@ -106,13 +106,13 @@ Operators are the symbols that operate on value to perform specific mahematical 
 
  ## Types of operators
  
-1. Arithmetic Operators
-2. Relational Operators
-3. Logical Operators
-4. Assignment Operators
-5. Increment and Decrement Operators
-6. Bitwise Operators
-7. Conditional Operator
+    1. Arithmetic Operators
+    2. Relational Operators
+    3. Logical Operators
+    4. Assignment Operators
+    5. Increment and Decrement Operators
+    6. Bitwise Operators
+    7. Conditional Operator
 
 ## 1.  Arithmetic Operators
 
@@ -120,13 +120,13 @@ Arithmetic operators are used to perform mathematical calculations.
 
 ### Types of Arithmetic Operators
 
-| Operator | Name                | Example |
-| -------- | ------------------- | ------- |
-| `+`      | Addition            | `a + b` |
-| `-`      | Subtraction         | `a - b` |
-| `*`      | Multiplication      | `a * b` |
-| `/`      | Division            | `a / b` |
-| `%`      | Modulus (Remainder) | `a % b` |
+    | Operator | Name                | Example |
+    | -------- | ------------------- | ------- |
+    | `+`      | Addition            | `a + b` |
+    | `-`      | Subtraction         | `a - b` |
+    | `*`      | Multiplication      | `a * b` |
+    | `/`      | Division            | `a / b` |
+    | `%`      | Modulus (Remainder) | `a % b` |
 
 ## 2. Relational Operators 
 
@@ -137,11 +137,21 @@ False(0)
 
 ### Types of Relational Operators
 
-| Operator | Meaning                  | Example  |
-| -------- | ------------------------ | -------- |
-| `==`     | Equal to                 | `a == b` |
-| `!=`     | Not equal to             | `a != b` |
-| `>`      | Greater than             | `a > b`  |
-| `<`      | Less than                | `a < b`  |
-| `>=`     | Greater than or equal to | `a >= b` |
-| `<=`     | Less than or equal to    | `a <= b` |
+    | Operator | Meaning                  | Example  |
+    | -------- | ------------------------ | -------- |
+    | `==`     | Equal to                 | `a == b` |
+    | `!=`     | Not equal to             | `a != b` |
+    | `>`      | Greater than             | `a > b`  |
+    | `<`      | Less than                | `a < b`  |
+    | `>=`     | Greater than or equal to | `a >= b` |
+    | `<=`     | Less than or equal to    | `a <= b` |
+
+## 3. Logical Operators
+
+ Logical operators are used to combine two or more conditions.
+
+### Types of Logical Operators
+1. '&&' - Logical AND : The logical AND operator returns true only when both conditions are true.
+2. '!' - Logical NOT : The logical OR operator returns true if at least one condition is true.
+
+
