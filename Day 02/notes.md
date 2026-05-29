@@ -94,7 +94,7 @@ Manual conversion done by programmer.
 
 # Type Casting Table
 
-<<<<<<< HEAD
+
 Conversion	Example
 int → float	(float)a
 float → int	(int)b
@@ -104,9 +104,44 @@ char → int	(int)c
 # Operators 
 Operators are the symbols that operate on value to perform specific mahematical or logical computations on a given values.
 
-=======
-# Conversion	Example
-    int → float	(float)a
-    float → int	(int)b
-    char → int	(int)c
->>>>>>> 2a6708108ec4a26e4a56069aa88cc70d79ae1750
+ ## Types of operators
+ 
+1. Arithmetic Operators
+2. Relational Operators
+3. Logical Operators
+4. Assignment Operators
+5. Increment and Decrement Operators
+6. Bitwise Operators
+7. Conditional Operator
+
+## 1.  Arithmetic Operators
+
+Arithmetic operators are used to perform mathematical calculations.
+
+### Types of Arithmetic Operators
+
+| Operator | Name                | Example |
+| -------- | ------------------- | ------- |
+| `+`      | Addition            | `a + b` |
+| `-`      | Subtraction         | `a - b` |
+| `*`      | Multiplication      | `a * b` |
+| `/`      | Division            | `a / b` |
+| `%`      | Modulus (Remainder) | `a % b` |
+
+## 2. Relational Operators 
+
+Relational operators are used to compare two values or variables.
+It return : 
+True(1)
+False(0)
+
+### Types of Relational Operators
+
+| Operator | Meaning                  | Example  |
+| -------- | ------------------------ | -------- |
+| `==`     | Equal to                 | `a == b` |
+| `!=`     | Not equal to             | `a != b` |
+| `>`      | Greater than             | `a > b`  |
+| `<`      | Less than                | `a < b`  |
+| `>=`     | Greater than or equal to | `a >= b` |
+| `<=`     | Less than or equal to    | `a <= b` |
