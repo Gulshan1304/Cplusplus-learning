@@ -74,7 +74,8 @@ A boolean data type is used to store true or false values.
 
  Type casting is the process of converting one data type into another data type.
 
- ## Example 
+ ## Example
+ 
      int → float
     float → int
     char → int
