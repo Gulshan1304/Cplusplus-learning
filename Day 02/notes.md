@@ -170,7 +170,17 @@ Assignment operators are used to assign values to variables.
     | `/=`     | Divide and assign   | `a /= 5` |
     | `%=`     | Modulus and assign  | `a %= 5` |
 
-    
+## Add and Assign Operator (+=)   
+The add and assign operator adds a value to the variable and stores the result in the same variable. 
 
+## Subtract and Assign Operator (-=)
+The subtract and assign operator subtracts a value from the variable and stores the result in the same variable. 
 
+## Multiply and Assign Operator (*=)
+The multiply and assign operator multiplies the variable by a value and stores the result in the same variable. 
 
+## Divide and Assign Operator (/=) 
+The divide and assign operator divides the variable by a value and stores the result in the same variable.  
+
+## Modulus and Assign Operator (%=) 
+The modulus and assign operator finds the remainder and stores the result in the same variable. 
