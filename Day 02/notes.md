@@ -23,12 +23,12 @@ A data type is used to define the type of data that a variable can store in a pr
 
 # Types of Data Types
 
-1. Integer Data Type (`int`)
-2. Float Data Type (`float`)
-3. Double Data Type (`double`)
-4. Character Data Type (`char`)
-5. String Data Type (`string`)
-6. Boolean Data Type (`bool`)
+    1. Integer Data Type (`int`)
+    2. Float Data Type (`float`)
+    3. Double Data Type (`double`)
+    4. Character Data Type (`char`)
+    5. String Data Type (`string`)
+    6. Boolean Data Type (`bool`)
 
 ---
 
@@ -75,9 +75,9 @@ A boolean data type is used to store true or false values.
  Type casting is the process of converting one data type into another data type.
 
  ## Example 
- int → float
-float → int
-char → int
+     int → float
+    float → int
+    char → int
 
 # Types of Type Casting
 
@@ -94,6 +94,7 @@ Manual conversion done by programmer.
 
 # Type Casting Table
 
+<<<<<<< HEAD
 Conversion	Example
 int → float	(float)a
 float → int	(int)b
@@ -101,4 +102,11 @@ char → int	(int)c
 
 
 # Operators 
-Operators are the symbols that operate on value to perform specific mahematical or logicalcomputations on a given values.
+Operators are the symbols that operate on value to perform specific mahematical or logical computations on a given values.
+
+=======
+# Conversion	Example
+    int → float	(float)a
+    float → int	(int)b
+    char → int	(int)c
+>>>>>>> 2a6708108ec4a26e4a56069aa88cc70d79ae1750
