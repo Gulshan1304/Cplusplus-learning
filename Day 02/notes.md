@@ -136,7 +136,7 @@ It return :
 True(1)
 False(0)
 
-### Types of Relational Operators
+### Types of Relational Operators 
 
     | Operator | Meaning                  | Example  |
     | -------- | ------------------------ | -------- |
