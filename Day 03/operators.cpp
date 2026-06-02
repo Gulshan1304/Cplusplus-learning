@@ -12,13 +12,27 @@ int main() {
     cout << "b / a = " << b / a << endl; // Division
     cout << "b % a = " << b % a << endl; // Modulus
 
-    // Comparison Operators
+    // Relational Operators
     cout << "a == b: " << (a == b) << endl; // Equal to
     cout << "a != b: " << (a != b) << endl; // Not equal to
     cout << "a > b: " << (a > b) << endl;   // Greater than
     cout << "a < b: " << (a < b) << endl;   // Less than
     cout << "a >= b: " << (a >= b) << endl; // Greater than or equal to
     cout << "a <= b: " << (a <= b) << endl; // Less than or equal to
+// Logical Operators
+
+ int c = 30;
+    cout << "(a < b) && (b < c): " << ((a < b) && (b < c)) << endl; // Logical AND
+    cout << "(a < b) || (b > c): " << ((a < b) || (b > c)) << endl; // Logical OR
+    cout << "!(a < b): " << (!(a < b)) << endl; // Logical NOT
+    
+    // Assignment Operators
+    int x = 5;
+    x += 10; // Equivalent to x = x + 10
+    cout << "x after += 10: " << x << endl;
+    x -= 5; // Equivalent to x = x - 5
+
+
 
     return 0;
 }
