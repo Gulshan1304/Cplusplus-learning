@@ -92,3 +92,27 @@ The Increment Operator (++) is a unary operator that increases the value of a va
 
 ### Decrement Operator (--)
 The Decrement Operator (--) is a unary operator that decreases the value of a variable by 1.
+
+##  6. Bitwise Operators
+
+Bitwise operators are used to perform operations directly on the binary representation (bits) of integers.
+
+### Types of Bitwise Operators 
+
+## 1. Bitwise AND (&)
+Returns 1 only when both bits are 1.
+
+## 2. Bitwise OR (|)
+Returns 1 if at least one bit is 1.
+
+## 3. Bitwise XOR (^)
+Returns 1 when bits are different.
+
+## 4. Bitwise NOT (~)
+Reverses all bits.
+
+## 5. Left Shift (<<)
+Shifts bits to the left.
+
+## 6. Right Shift (>>)
+Shifts bits to the right.

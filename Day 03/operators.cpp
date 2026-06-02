@@ -38,7 +38,15 @@ int main() {
     cout << "x after /= 3: " << x << endl;
     x %= 4; // Equivalent to x = x % 4
     cout << "x after %= 4: " << x << endl;
+// Bitwise Operators
+  int p = 5, q = 3;
 
+    cout << "AND : " << (p & q) << endl;
+    cout << "OR  : " << (p | q) << endl;
+    cout << "XOR : " << (p ^ q) << endl;
+    cout << "NOT : " << (~p) << endl;
+    cout << "Left Shift : " << (p << 1) << endl;
+    cout << "Right Shift: " << (p   >> 1) << endl;
 
     return 0;
 }
