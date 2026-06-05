@@ -11,7 +11,7 @@ There are three main types of loops:
 ### 1. For Loop
 A for loop is used when the number of iterations is known in advance.
 
-### 2.  2. While Loop
+### 2. While Loop
 A while loop is used when the number of iterations is not known beforehand.
 
 ### 3. Do-While Loop
