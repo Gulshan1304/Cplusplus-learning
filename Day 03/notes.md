@@ -83,8 +83,8 @@ The multiply and assign operator multiplies the variable by a value and stores t
 The divide and assign operator divides the variable by a value and stores the result in the same variable.  
 
 ## Modulus and Assign Operator (%=) 
-The modulus and assign operator finds the remainder and stores the result in the same variable. 
-
+The modulus and assign operator finds the remainder and stores the result in the same variable.
+     
 ## 5. Increment and Decrement Operators
 
 ### Increment Operator (++)
