@@ -31,7 +31,7 @@ Arithmetic operators are used to perform mathematical calculations.
 Relational operators are used to compare two values or variables.
 It return : 
 True(1)
-False(0)
+False(0) 
 
 ### Types of Relational Operators 
 
