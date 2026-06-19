@@ -1,5 +1,5 @@
 # Arrays
-An Arrays is a collection of elements of the same data type storesin contigupus memory
+An Arrays is a collection of elements of the same data type stores in contigupus memory
 locations.It allows you to store multiple values under one variable name.
 
 ##Why use an array?
