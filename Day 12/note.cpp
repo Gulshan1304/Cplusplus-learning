@@ -53,12 +53,12 @@ void fun() {
 2. Indirect Recursion
 
 One function calls another function which eventually calls the first function.
-void A();
+/*void A();
 void B();
 
 void A() {
     B();
-}
+}*/
 
 void B() {
     A();
