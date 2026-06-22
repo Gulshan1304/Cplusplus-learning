@@ -1,7 +1,7 @@
 # Function Overloading, Scope, and Recursion
 
 ## 1. Function Overloading
-unction Overloading is a feature in C++ that allows multiple functions to have the same name but different parameter lists (different number, type, or order of parameters).
+function Overloading is a feature in C++ that allows multiple functions to have the same name but different parameter lists (different number, type, or order of parameters).
 
 It is an example of Compile-Time Polymorphism.
 ### Types of Function Overloading
