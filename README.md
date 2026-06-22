@@ -33,15 +33,6 @@ By completing this challenge, I will be able to:
       ✅ Prepare for Competitive Programming
 
 ---
-
-## Practice Platforms
-
-* [LeetCode](https://leetcode.com?utm_source=chatgpt.com)
-* [HackerRank](https://www.hackerrank.com?utm_source=chatgpt.com)
-* [CodeChef](https://www.codechef.com?utm_source=chatgpt.com)
-* [GeeksforGeeks](https://www.geeksforgeeks.org?utm_source=chatgpt.com)
-
----
 ```
  #  30 Days Learning Plan
                               
