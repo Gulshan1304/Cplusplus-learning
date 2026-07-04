@@ -13,7 +13,7 @@ if (n >=0) {
 // if else statement
 if (n >=0) {
     // if n is greater than or equal to 0, then it is a positive number
-    cout << "n is apositive"<< endl ;
+    cout << "n is a positive"<< endl ;
 }
 else {
     // if n is less than 0, then it is a negative number
