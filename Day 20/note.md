@@ -163,6 +163,3 @@ O(log n) – Logarithmic time
 O(n) – Linear time
 O(n log n) – Linearithmic time
 O(n²) – Quadratic time
-Interview Tip
-
-For interviews, try to keep your definitions concise (1–3 sentences), then explain with a small example if the interviewer asks for more details. This demonstrates both conceptual understanding and practical knowledge.
