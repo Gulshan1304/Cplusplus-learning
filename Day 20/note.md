@@ -1,13 +1,15 @@
+# STANDARD TEMPLATE LIBRARY (STL)
 
-# 1. What is STL?
+
+## 1. What is STL?
 The Standard Template Library (STL) is a collection of generic classes and functions in C++ that provides ready-made data structures and algorithms, making programming easier and more efficient.
 
-# 2. What is a Container?
+## 2. What is a Container?
 
 A container is a data structure used to store and organize a collection of elements.
-```
-Examples:
 
+Examples:
+```
 vector
 list
 deque
@@ -15,9 +17,8 @@ set
 map
 unordered_map
 ```
-# 3. What is an Algorithm?
+## 3. What is an Algorithm?
 
-Definition:
 An algorithm is a predefined function that performs operations on data stored in containers.
 Examples:
 ```
@@ -27,38 +28,31 @@ find()
 count()
 binary_search()
 ```
-# 4. What is an Iterator?
+## 4. What is an Iterator?
 
-Definition:
 An iterator is an object that acts like a pointer and is used to access and traverse elements of a container.
 
-# 5. What is a Vector?
+## 5. What is a Vector?
 
-Definition:
 A vector is a dynamic array that can automatically grow or shrink in size as elements are added or removed.
 
-# 6. What is a List?
+## 6. What is a List?
 
-Definition:
 A list is a doubly linked list that allows efficient insertion and deletion of elements from any position.
 
-# 7. What is a Deque?
+## 7. What is a Deque?
 
-Definition:
 A deque (double-ended queue) is a sequence container that allows insertion and deletion at both the front and the back efficiently.
 
-# 8. What is a Stack?
+## 8. What is a Stack?
 
-Definition:
 A stack is a container adapter that follows the LIFO (Last In, First Out) principle.
 
 Example:
 
 Push: 10, 20, 30
 Pop: 30
-# 9. What is a Queue?
-
-Definition:
+## 9. What is a Queue?
 A queue is a container adapter that follows the FIFO (First In, First Out) principle.
 
 Example:
@@ -67,44 +61,36 @@ Push: 10, 20, 30
 Pop: 10
 ```
 
-# 10. What is a Priority Queue?
+## 10. What is a Priority Queue?
 
-Definition:
 A priority queue is a container adapter in which the element with the highest (or lowest) priority is removed first.
 
-# 11. What is a Set?
+## 11. What is a Set?
 
-Definition:
 A set is an associative container that stores unique elements in sorted order.
 
-# 12. What is a Multiset?
+## 12. What is a Multiset?
 
-Definition:
 A multiset is similar to a set, but it allows duplicate elements while keeping them sorted.
 
-# 13. What is a Map?
+## 13. What is a Map?
 
-Definition:
 A map is an associative container that stores key-value pairs with unique keys in sorted order.
 
-# 14. What is a Multimap?
+## 14. What is a Multimap?
 
-Definition:
 A multimap is an associative container that stores key-value pairs and allows duplicate keys.
 
-# 15. What is an Unordered Map?
+## 15. What is an Unordered Map?
 
-Definition:
 An unordered_map is a hash table-based associative container that stores key-value pairs in no specific order and provides average O(1) lookup time.
 
-# 16. What is an Unordered Set?
+## 16. What is an Unordered Set?
 
-Definition:
 An unordered_set is a hash table-based container that stores unique elements without any order.
 
-# 17. What is a Pair?
+## 17. What is a Pair?
 
-Definition:
 A pair is a template class that stores two values of possibly different data types.
 
 Example:
