@@ -111,51 +111,46 @@ Example:
 ```
 pair<int, string> p = {1, "Alice"};
 ```
-# 18. What is a Functor?
+## 18. What is a Functor?
 
-Definition:
 A functor (function object) is a class that overloads the () operator so that its objects can be called like functions.
 
-19. What is a Lambda Expression?
+## 19. What is a Lambda Expression?
 
-Definition:
 A lambda expression is an anonymous function used for writing short pieces of code, especially with STL algorithms.
 
 Example:
-
+```
 sort(v.begin(), v.end(), [](int a, int b) {
     return a > b;
 });
-20. What is a Template?
+```
+## 20. What is a Template?
 
-Definition:
 A template is a C++ feature that allows writing generic code that works with different data types without rewriting the same logic.
 
-21. What is Generic Programming?
+## 21. What is Generic Programming?
 
-Definition:
 Generic programming is a programming technique where algorithms and data structures are written to work with any data type using templates.
 
-22. What is a Container Adapter?
+## 22. What is a Container Adapter?
 
-Definition:
 A container adapter is a special container that provides a restricted interface by adapting an existing container.
 
 Examples:
-
+```
 stack
 queue
 priority_queue
-23. What is Hashing?
+```
+## 23. What is Hashing?
 
-Definition:
 Hashing is a technique that converts a key into an index using a hash function, enabling fast insertion, deletion, and searching.
 
-24. What is Time Complexity?
+## 24. What is Time Complexity?
 
-Definition:
 Time complexity measures how the running time of an algorithm grows as the input size increases.
-
+```
 Example:
 
 O(1) – Constant time
@@ -163,3 +158,4 @@ O(log n) – Logarithmic time
 O(n) – Linear time
 O(n log n) – Linearithmic time
 O(n²) – Quadratic time
+```
